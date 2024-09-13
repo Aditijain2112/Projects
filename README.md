@@ -12,4 +12,4 @@ Project 2 - For my final project, I analyzed my recent trip to Spain and Portuga
 [Exploring my Europe trip: Dashboard](https://public.tableau.com/app/profile/aditi.jain1423/viz/Travelpreferences/Dashboard1?publish=yes)
 
 
-[Exploring my Europe Trip: Project Report](https://github.com/Aditijain2112/Tableau-Projects/blob/main/Exploring%20my%20Europe%20Trip-Final%20Report%20-%20Aditi%20Jain.pdf)
+[Exploring my Europe Trip: Project Report](https://drive.google.com/file/d/1hUmtg1RG_n3xALJouyLDCgiDGhUj25Pi/view?usp=sharing)
